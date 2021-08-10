@@ -78,8 +78,7 @@ html_file = "file:///" + os.getcwd() + "/1688_price2.html"
 #url="https://detail.1688.com/offer/620874896891.html?spm=a260k.dacugeneral.home2019rec.2.6633436cMWZYdR&resourceId=850343&udsPoolId=1026341"
 #url = 'https://detail.1688.com/offer/649838054631.html?spm=a260k.dacugeneral.home2019rec.1.6633436cXYoUnX&tracelog=p4p&clickid=27318c3a60ee44e3883d7e6b8b81f4f8&sessionid=2998051d35cc0b1e3b48ac953805a838'
 #url = 'https://detail.1688.com/offer/583457675025.html?spm=a260k.dacugeneral.home2019rec.86.6633436cUAUSXG&resourceId=850343&udsPoolId=1026341&scm=1007.21237.114566.0&pvid=0c171c21-3831-46ee-9256-bc267ab61166&tpp_trace=212cbb6816282789506151387e7598'
-#url = 'https://detail.1688.com/offer/650635541901.html?spm=a260k.dacugeneral.home2019rec.6.6633436cLYnbqX&tracelog=p4p&clickid=b7ad1f4f0aff41bca346974460c0cbf1&sessionid=134b5a5d503cc164298709a41b8b3775'
-url = 'https://detail.1688.com/offer/650284784424.html'
+url = 'https://detail.1688.com/offer/650635541901.html?spm=a260k.dacugeneral.home2019rec.6.6633436cLYnbqX&tracelog=p4p&clickid=b7ad1f4f0aff41bca346974460c0cbf1&sessionid=134b5a5d503cc164298709a41b8b3775'
 #driver.execute_script("window.open('https://1688.com/');")
 #driver.switch_to.window(driver.window_handles[-1])
 driver.get(url)
