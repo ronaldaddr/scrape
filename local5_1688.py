@@ -1,4 +1,3 @@
-from fungsi import data_scrape
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -13,38 +12,6 @@ import json
 import chromedriver_binary  # Adds chromedriver binary to path
 from bs4 import BeautifulSoup
 import os
-
-
-#harga
-def elementHarga(html):
-    data=[]
-    result =[]
-    #price
-    priceBox = html.find_elements_by_xpath("//div[@class='price-box']")
-    for elem_idx in range (len(priceBox)):
-        el1 = priceBox[elem_idx].find_elements_by_class_name("price-unit")
-        el2 = priceBox[elem_idx].find_elements_by_class_name("price-text")
-        #print(el1[0].text)
-        data.append({"price_unit" : el1[0].text,"price" : el2[0].text})
-    return data
-
-#title
-def elementTitle(html):
-    elem_title1 = html.find_elements_by_xpath("//span[@class='title-first-text']")
-    #print(elem_title1[0].text)
-    elem_title2 = html.find_elements_by_xpath("//span[@class='title-second-text']")
-    data = str(elem_title1[0].text + elem_title2[0].text)    
-    return data 
-
-#image
-def elementImg(html):
-    elem_img = html.find_elements_by_xpath("//img[@class='rax-image ']")
-    #print('results : ',len(elem_img))
-    data_img=[]
-    for result in elem_img:
-        img_link = result.get_attribute("src")
-        data_img.append({"photo" : img_link})    
-    return data_img
 
 
 injected_javascript = (
@@ -84,18 +51,8 @@ url = 'https://detail.1688.com/offer/650635541901.html?spm=a260k.dacugeneral.hom
 driver.get(url)
 
 driver.execute_async_script(injected_javascript)
-#driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-#logs_raw = driver.get_log("browser")
-#print(logs_raw)
-#results = elementHarga(driver)
-#print(driver)
-#driver.quit()
 soup = BeautifulSoup(driver.page_source, "html.parser")
-#new_tag=soup.new_tag('div')
-#new_tag['id']='imp1'
-#soup.body.append(new_tag)
-#results=soup.find(text=lambda t: "iDetailConfig" in t)
 print(soup.text)
-f = open(os.getcwd() + "/650284784424.json", "w")
+f = open(os.getcwd() + "/650635541901.json", "w")
 f.write(soup.text)
 print("selesai")
