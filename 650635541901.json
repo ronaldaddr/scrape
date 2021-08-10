@@ -1,0 +1,711 @@
+{
+    "pageType": "",
+    "pageid": "laputa20161201185428",
+    "pageScene": "hp",
+    "offerid": "650635541901",
+    "processingOfferId": "",
+    "catid": "1031919",
+    "dcatid": "",
+    "parentdcatid": "",
+    "isRangePriceSku": "false",
+    "isSKUOffer": "true",
+    "isStdProductOffer": "false",
+    "isPreSale": "false",
+    "memberid": "b2b-4292558881a7b2a",
+    "loginId": "阿美美内衣",
+    "islogin": "false",
+    "buyerUserID": "",
+    "isBestOffer": "false",
+    "isChtMember": "false",
+    "isChtSingleOffer": "false",
+    "isTP": "true",
+    "isSlsjSeller": "false",
+    "loginurl": "",
+    "feedbackMemberLevel": "common",
+    "feedbackUid": "b2b-4292558881a7b2a",
+    "feedbackFromId": "",
+    "feedbackInfoId": "650635541901",
+    "creditProfileUrl": "http://levit.1688.com/profile/creditProfile.json",
+    "topDomainTpl": "",
+    "unit": "件",
+    "priceUnit": "元",
+    "isPreview": "false",
+    "isVirtualCat": "false",
+    "isLadderGroup": "",
+    "serverInfo": "detail.1688.com",
+    "laputaServer": "https://laputa.1688.com",
+    "detailServer": "https://detail.1688.com",
+    "refPrice": "11.00",
+    "beginAmount": "2",
+    "mergeVariable": "asyncResourcesAliimg",
+    "currentTime": "1628480792430",
+    "isAccessSpecialSuppy": "true",
+    "designServer": "https://design.1688.com",
+    "alibabaServer": "https://exodus.1688.com",
+    "domainType": "",
+    "sourceType": "freebuynowoffer",
+    "companySiteLink": "//shop3w7i863893871.1688.com",
+    "hasConsignPrice": "false",
+    "staticUrl": "https://laputa.1688.com/offer/ajax/widgetList.do",
+    "mkcActivityId": "1042463138",
+    "mkcActivityStartTime": "1627351200000",
+    "qrcode": "https://gqrcode.alicdn.com/img?type=ali&w=150&h=150&el=m&text=http%3A%2F%2Fma.m.1688.com%2Frush.html%3Fsecret%3DACAsOOhI",
+    "minqrcode": "https://gqrcode.alicdn.com/img?type=ali&w=46&h=46&el=m&text=http%3A%2F%2Fma.m.1688.com%2Frush.html%3Fsecret%3DACAsOOhI",
+    "officialActivityId": "",
+    "userId": "4292558881",
+    "_csrf_token": "ab7c99791995174569487baee5ad5274",
+    "isTopDomain": "false",
+    "end": 0
+}{
+    "sku": {
+        "discount": "0.77",
+        "discountPrice": "8.50",
+        "price": "8.50",
+        "retailPrice": "",
+        "canBookCount": "3098",
+        "saleCount": "262",
+        "skuProps": [
+            {
+                "prop": "颜色",
+                "value": [
+                    {
+                        "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fqpgu12FTY9OAHpXh_!!4292558881-0-cib.jpg",
+                        "name": "黑色"
+                    },
+                    {
+                        "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yRAO5P2FTY9b7QeLG_!!4292558881-0-cib.jpg",
+                        "name": "灰色"
+                    },
+                    {
+                        "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011CmG452FTY9XSEQbh_!!4292558881-0-cib.jpg",
+                        "name": "粉色"
+                    },
+                    {
+                        "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mqd8i82FTY9YXn9LY_!!4292558881-0-cib.jpg",
+                        "name": "白色"
+                    },
+                    {
+                        "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01R5opce2FTY9So48gX_!!4292558881-0-cib.jpg",
+                        "name": "咖啡色"
+                    }
+                ]
+            },
+            {
+                "prop": "尺码",
+                "value": [
+                    {
+                        "name": "M"
+                    },
+                    {
+                        "name": "L"
+                    },
+                    {
+                        "name": "XL"
+                    },
+                    {
+                        "name": "XXL"
+                    }
+                ]
+            }
+        ],
+        "skuMap": {
+            "黑色>XL": {
+                "blackWordSku": false,
+                "canBookCount": 137,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 31,
+                "skuId": 4694871637164,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "黑色",
+                        "valueId": 28341
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XL",
+                        "valueId": 28317
+                    }
+                ],
+                "specId": "5c337082186ff55b2d8267560ac89d59",
+                "storageInfos": []
+            },
+            "粉色>L": {
+                "blackWordSku": false,
+                "canBookCount": 114,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 84,
+                "skuId": 4694871637171,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "粉色",
+                        "valueId": 28323
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "L",
+                        "valueId": 28316
+                    }
+                ],
+                "specId": "bafa4ffc2633231c41827946e49de47e",
+                "storageInfos": []
+            },
+            "白色>L": {
+                "blackWordSku": false,
+                "canBookCount": 163,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 6,
+                "skuId": 4694871637175,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "白色",
+                        "valueId": 28320
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "L",
+                        "valueId": 28316
+                    }
+                ],
+                "specId": "82114cbd2c10b5e97b01af1510807e2d",
+                "storageInfos": []
+            },
+            "灰色>XL": {
+                "blackWordSku": false,
+                "canBookCount": 168,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 0,
+                "skuId": 4694871637168,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "灰色",
+                        "valueId": 28334
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XL",
+                        "valueId": 28317
+                    }
+                ],
+                "specId": "893746f5330dc3273d24aa1ac1a9a8b5",
+                "storageInfos": []
+            },
+            "粉色>M": {
+                "blackWordSku": false,
+                "canBookCount": 167,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 2,
+                "skuId": 4694871637170,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "粉色",
+                        "valueId": 28323
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "M",
+                        "valueId": 28315
+                    }
+                ],
+                "specId": "93186103ae87fb959dde63698680fc1d",
+                "storageInfos": []
+            },
+            "白色>XL": {
+                "blackWordSku": false,
+                "canBookCount": 168,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 0,
+                "skuId": 4694871637176,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "白色",
+                        "valueId": 28320
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XL",
+                        "valueId": 28317
+                    }
+                ],
+                "specId": "c45d8408137e34adf8e695250c42a2e9",
+                "storageInfos": []
+            },
+            "咖啡色>XXL": {
+                "blackWordSku": false,
+                "canBookCount": 168,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 1,
+                "skuId": 4694871637181,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "咖啡色",
+                        "valueId": 129819
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XXL",
+                        "valueId": 28318
+                    }
+                ],
+                "specId": "8e22a052f29dacc34427526fcd8d5e43",
+                "storageInfos": []
+            },
+            "灰色>M": {
+                "blackWordSku": false,
+                "canBookCount": 166,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 3,
+                "skuId": 4694871637166,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "灰色",
+                        "valueId": 28334
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "M",
+                        "valueId": 28315
+                    }
+                ],
+                "specId": "2e578fba8900edcb236eff5cdc5eefb5",
+                "storageInfos": []
+            },
+            "灰色>L": {
+                "blackWordSku": false,
+                "canBookCount": 165,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 63,
+                "skuId": 4694871637167,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "灰色",
+                        "valueId": 28334
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "L",
+                        "valueId": 28316
+                    }
+                ],
+                "specId": "43b0e72e98731aed69e1f0cc7d64bf4d",
+                "storageInfos": []
+            },
+            "粉色>XL": {
+                "blackWordSku": false,
+                "canBookCount": 112,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 56,
+                "skuId": 4694871637172,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "粉色",
+                        "valueId": 28323
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XL",
+                        "valueId": 28317
+                    }
+                ],
+                "specId": "1bbd0acb3b8e6e4b280059fa2e96581b",
+                "storageInfos": []
+            },
+            "咖啡色>XL": {
+                "blackWordSku": false,
+                "canBookCount": 167,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 1,
+                "skuId": 4694871637180,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "咖啡色",
+                        "valueId": 129819
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XL",
+                        "valueId": 28317
+                    }
+                ],
+                "specId": "f1d8e1cfb6a89c32e0fdb5008665bfde",
+                "storageInfos": []
+            },
+            "黑色>L": {
+                "blackWordSku": false,
+                "canBookCount": 114,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 85,
+                "skuId": 4694871637163,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "黑色",
+                        "valueId": 28341
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "L",
+                        "valueId": 28316
+                    }
+                ],
+                "specId": "b99ece08861a79e13a4dba90e97ebff8",
+                "storageInfos": []
+            },
+            "粉色>XXL": {
+                "blackWordSku": false,
+                "canBookCount": 168,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 0,
+                "skuId": 4694871637173,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "粉色",
+                        "valueId": 28323
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XXL",
+                        "valueId": 28318
+                    }
+                ],
+                "specId": "8cfc17ce59632af5c486095dbcd6d954",
+                "storageInfos": []
+            },
+            "黑色>XXL": {
+                "blackWordSku": false,
+                "canBookCount": 144,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 24,
+                "skuId": 4694871637165,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "黑色",
+                        "valueId": 28341
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XXL",
+                        "valueId": 28318
+                    }
+                ],
+                "specId": "dc048f4577f72dd6b932615edef1fab6",
+                "storageInfos": []
+            },
+            "白色>M": {
+                "blackWordSku": false,
+                "canBookCount": 165,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 4,
+                "skuId": 4694871637174,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "白色",
+                        "valueId": 28320
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "M",
+                        "valueId": 28315
+                    }
+                ],
+                "specId": "cef93beef156f1799e736c649f36efae",
+                "storageInfos": []
+            },
+            "灰色>XXL": {
+                "blackWordSku": false,
+                "canBookCount": 168,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 0,
+                "skuId": 4694871637169,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "灰色",
+                        "valueId": 28334
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XXL",
+                        "valueId": 28318
+                    }
+                ],
+                "specId": "42d994cba0210528142a743d4069700f",
+                "storageInfos": []
+            },
+            "黑色>M": {
+                "blackWordSku": false,
+                "canBookCount": 142,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 27,
+                "skuId": 4694871637162,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "黑色",
+                        "valueId": 28341
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "M",
+                        "valueId": 28315
+                    }
+                ],
+                "specId": "4b2120e532948daa11e58e09bb260801",
+                "storageInfos": []
+            },
+            "白色>XXL": {
+                "blackWordSku": false,
+                "canBookCount": 168,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 0,
+                "skuId": 4694871637177,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "白色",
+                        "valueId": 28320
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "XXL",
+                        "valueId": 28318
+                    }
+                ],
+                "specId": "df78564262818d6eb0c428a37ab4a251",
+                "storageInfos": []
+            },
+            "咖啡色>M": {
+                "blackWordSku": false,
+                "canBookCount": 167,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 2,
+                "skuId": 4694871637178,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "咖啡色",
+                        "valueId": 129819
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "M",
+                        "valueId": 28315
+                    }
+                ],
+                "specId": "3f911a0e15129729bb7d66aa1f937c2d",
+                "storageInfos": []
+            },
+            "咖啡色>L": {
+                "blackWordSku": false,
+                "canBookCount": 167,
+                "cargoNumber": "",
+                "discountPrice": "8.50",
+                "saleCount": 61,
+                "skuId": 4694871637179,
+                "specAttrs": [
+                    {
+                        "fid": 3216,
+                        "imgSupport": false,
+                        "name": "颜色",
+                        "order": 36,
+                        "value": "咖啡色",
+                        "valueId": 129819
+                    },
+                    {
+                        "fid": 450,
+                        "imgSupport": false,
+                        "name": "尺码",
+                        "order": 37,
+                        "value": "L",
+                        "valueId": 28316
+                    }
+                ],
+                "specId": "73d4464c0652e8c595816c421555e5f0",
+                "storageInfos": []
+            }
+        },
+        "end": 0
+    },
+    "allTagIds": [],
+    "isSourcePromotion": false,
+    "hasPurcharseMark": false,
+    "promotionScene": "tttm",
+    "registeredData": {
+        "isSupportMix": false,
+        "beginAmount": 2,
+        "sellerInf": {
+            "loginId": "阿美美内衣"
+        },
+        "mixBegin": "",
+        "categoryList": [
+            {
+                "name": "女装",
+                "id": 10166
+            },
+            {
+                "name": "女式T恤",
+                "id": 1031919
+            }
+        ],
+        "stock": 3098,
+        "categoryName": "女式T恤",
+        "categoryId": 1031919,
+        "offerWeightInf": {
+            "weight": "",
+            "roughWeight": "",
+            "netWeight": ""
+        }
+    },
+    "creditInstallment": {
+        "isOpenCreditInstallment": true,
+        "isCreditPay": false
+    },
+    "purchaseViewName": "multiple",
+    "purchaseFlow": "paired"
+}
